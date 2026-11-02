@@ -1,1 +1,1 @@
-# sp500-rfm-segmentation
+# sp500-rfm-analysis
